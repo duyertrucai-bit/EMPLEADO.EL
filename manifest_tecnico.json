@@ -1,0 +1,19 @@
+{
+  "name": "Portal Técnico - Grupo WEDM",
+  "short_name": "Portal Técnico",
+  "description": "Consulta de órdenes de trabajo, registro de consumo de material y evidencias para técnicos de Grupo WEDM",
+  "id": "/PORTAL_TECNICO/empleado.html",
+  "start_url": "./empleado.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#1a73e8",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
